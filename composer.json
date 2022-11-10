@@ -1,11 +1,10 @@
 {
-    "name": "vincsis/omnipay-ticketasa",
+    "name": "grisgruis/omnipay-ticketasa",
     "description": "Ticketasa support for omnipay payment processing library",
     "type": "library",
     "require": {
 	"php": "^7.2",
-        "omnipay/common": "^3",
-	    "league/iso3166": "~2.1.0"
+        "omnipay/common": "^3"
     },
     "license": "MIT",
     "autoload": {
