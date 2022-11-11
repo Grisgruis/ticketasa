@@ -2,8 +2,8 @@
 
 namespace Omnipay\Ticketasa\Support;
 
-interface ParametersInterface
-{
+interface ParametersInterface {
+
     public function setPWTId($PWTID);
 
     public function getPWTId();
